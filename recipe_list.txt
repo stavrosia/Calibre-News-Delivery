@@ -1,2 +1,1 @@
-
-nytimes_sub.recipe
+Slashdot.org
